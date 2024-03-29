@@ -62,10 +62,6 @@ This binary is fully parallelized, and the number of the threads would be automa
 
 ## Benchmark data
 
-Directory `benchmark` lists example scripts to run `hEDDC` and `EDDC_exact`:
-- 
-
-
 
 ## Authors
 
