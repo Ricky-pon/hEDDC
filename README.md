@@ -60,11 +60,16 @@ Similarly, to call `./eddc-exact/target/release/EDDC_exact`, you need to specify
  
 This binary is fully parallelized, and the number of the threads would be automatically estimated.
 
-## Benchmark data
+## Sample codes to run `hEDDC` using benchmark data
 
+See directory `sample-codes`.
+
+## Visualization of phylogenetic trees of complex tandem repeats
+
+See directory `sample-codes`.
 
 ## Authors
 
-- Riki Kawahara <4956309606@edu.k.u-tokyo.ac.jp> implemented files in  eddc-heuristics and eddc-exact.
-- Bansho Masutani <ban-m@g.ecc.u-tokyo.ac.jp> string-decomposer
-- Shinichi Morishita <moris@edu.k.u-tokyo.ac.jp> benchmark
+- Riki Kawahara <4956309606@edu.k.u-tokyo.ac.jp> implemented codes in  `eddc-heuristics` and `eddc-exact`.
+- Bansho Masutani <ban-m@g.ecc.u-tokyo.ac.jp> codes in `string-decomposer`.
+- Shinichi Morishita <moris@edu.k.u-tokyo.ac.jp> data and codes in `sample-codes`.
