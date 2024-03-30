@@ -15,21 +15,21 @@ Rust(>1.59)
 
 ## Install
 
-After installing rust language, go to directory `eddc-heuristics` and type
+After installing rust language, go to the directory `eddc-heuristics` and type
 
 `cargo run --release`
 
-Then, 
+Then, you will have an executable binary:
 
 `./eddc-heuristics/target/release/hEDDC` 
 
-is the executable binary. hEDDC is a heuristic algorithm for estimating the accurate EDDC, but its estimation is highly correlated with the accurate EDDC, which is shown by substantial benchmark data. 
+hEDDC is a heuristic algorithm for estimating the accurate EDDC, but its estimation is highly correlated with the accurate EDDC, which is shown by substantial benchmark data. 
 
-If one wants to calcualte the exact EDDC value, go to `eddc-exact` and type
+If one wants to calcualte the exact EDDC value, go to the directory `eddc-exact` and type
 
 `cargo run --release`
 
-Then, we can obtain
+Then, you can obtain:
 
 `./eddc-exact/target/release/EDDC_exact` ,
 
@@ -37,7 +37,7 @@ which outputs the exact EDDC value, though `EDDC_exact` is orders of magnitude s
 
 ## How to use
 
-To call `./eddc-heuristics/target/release/hEDDC`, you need to specify two fasta files -- reads (strings with complex tandem repeats) and frequent units that occur in complex tandem repeats. 
+To call `./eddc-heuristics/target/release/hEDDC`, you need to specify two fasta file, reads (strings with complex tandem repeats) and frequent units that occur in complex tandem repeats. 
 They should be both (possibly multi-line) fasta files.
 An example fasta file of reads starts with:
 
@@ -62,11 +62,11 @@ This binary is fully parallelized, and the number of the threads would be automa
 
 ## Sample codes to run `hEDDC` using benchmark data
 
-See directory `sample-codes`.
+See the directory `sample-codes`.
 
 ## Visualization of phylogenetic trees of complex tandem repeats
 
-See directory `sample-codes`.
+See the directory `sample-codes`.
 
 ## Authors
 
