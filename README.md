@@ -62,11 +62,11 @@ This binary is fully parallelized, and the number of the threads would be automa
 
 ## Sample codes to run `hEDDC` using benchmark data
 
-See the directory `sample-codes`.
+See the directory `sample-data`.
 
 ## Visualization of phylogenetic trees of complex tandem repeats
 
-See the directory `sample-codes`.
+See the directory `sample-data`.
 
 ## Authors
 
