@@ -1,0 +1,101 @@
+Number of reads is 20
+AAAG_AG_0_50_0.0
+real 0.41
+user 1.33
+sys 0.08
+AAAG_AG_0_50_0.01
+real 0.23
+user 1.53
+sys 0.08
+AAAG_AG_0_50_0.03
+real 0.21
+user 1.27
+sys 0.06
+AAAG_AG_0_50_0.05
+real 0.25
+user 1.23
+sys 0.04
+AAAG_AG_0_50_0.1
+real 0.32
+user 1.54
+sys 0.06
+CAG_CAA_0_50_0.0
+real 0.27
+user 1.43
+sys 0.04
+CAG_CAA_0_50_0.01
+real 0.32
+user 1.32
+sys 0.06
+CAG_CAA_0_50_0.03
+real 0.30
+user 1.68
+sys 0.06
+CAG_CAA_0_50_0.05
+real 0.34
+user 1.92
+sys 0.06
+CAG_CAA_0_50_0.1
+real 0.13
+user 0.67
+sys 0.04
+AAAG_AG_AAAG_0_50_0.0
+real 0.98
+user 4.97
+sys 0.11
+AAAG_AG_AAAG_0_50_0.01
+real 0.78
+user 5.29
+sys 0.13
+AAAG_AG_AAAG_0_50_0.03
+real 0.96
+user 6.21
+sys 0.12
+AAAG_AG_AAAG_0_50_0.05
+real 0.77
+user 5.25
+sys 0.12
+AAAG_AG_AAAG_0_50_0.1
+real 1.02
+user 6.52
+sys 0.14
+AAAG_AG_AGGG_AG_AAAG_0_50_0.0
+real 4.31
+user 23.20
+sys 0.32
+AAAG_AG_AGGG_AG_AAAG_0_50_0.01
+real 4.97
+user 28.37
+sys 0.32
+AAAG_AG_AGGG_AG_AAAG_0_50_0.03
+real 5.64
+user 31.07
+sys 0.43
+AAAG_AG_AGGG_AG_AAAG_0_50_0.05
+real 3.37
+user 23.93
+sys 0.34
+AAAG_AG_AGGG_AG_AAAG_0_50_0.1
+real 4.92
+user 32.89
+sys 0.40
+AGGGG_AAAAGAAAGAGAGGG_AGGGG_0_50_0.0
+real 0.99
+user 5.46
+sys 0.10
+AGGGG_AAAAGAAAGAGAGGG_AGGGG_0_50_0.01
+real 0.81
+user 4.32
+sys 0.10
+AGGGG_AAAAGAAAGAGAGGG_AGGGG_0_50_0.03
+real 0.82
+user 4.93
+sys 0.11
+AGGGG_AAAAGAAAGAGAGGG_AGGGG_0_50_0.05
+real 1.13
+user 6.61
+sys 0.16
+AGGGG_AAAAGAAAGAGAGGG_AGGGG_0_50_0.1
+real 0.81
+user 4.17
+sys 0.10
